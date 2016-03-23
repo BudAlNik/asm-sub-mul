@@ -3,6 +3,9 @@ CMakeFiles/
 Makefile
 cmake_install.cmake
 *~
+in
+out
+ans
 
 CMakeLists.txt.user
 hello
